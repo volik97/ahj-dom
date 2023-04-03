@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/9tvbuoqtqsxvslur?svg=true)](https://ci.appveyor.com/project/volik97/ahj-dom-03kxr)
+[![Build status](https://ci.appveyor.com/api/projects/status/wittt5abtaiem1fs?svg=true)](https://ci.appveyor.com/project/volik97/ahj-dom)
